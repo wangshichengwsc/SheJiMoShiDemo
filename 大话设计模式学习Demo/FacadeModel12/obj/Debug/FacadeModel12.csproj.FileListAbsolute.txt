@@ -1,0 +1,4 @@
+E:\Coding\大话设计模式学习Demo\FacadeModel12\bin\Debug\FacadeModel12.dll
+E:\Coding\大话设计模式学习Demo\FacadeModel12\bin\Debug\FacadeModel12.pdb
+E:\Coding\大话设计模式学习Demo\FacadeModel12\obj\Debug\FacadeModel12.dll
+E:\Coding\大话设计模式学习Demo\FacadeModel12\obj\Debug\FacadeModel12.pdb

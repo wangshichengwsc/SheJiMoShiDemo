@@ -1,0 +1,6 @@
+E:\Coding\大话设计模式学习Demo\AbstactFactory3\bin\Debug\AbstactFactory3.dll.config
+E:\Coding\大话设计模式学习Demo\AbstactFactory3\bin\Debug\AbstactFactory3.dll
+E:\Coding\大话设计模式学习Demo\AbstactFactory3\bin\Debug\AbstactFactory3.pdb
+E:\Coding\大话设计模式学习Demo\AbstactFactory3\obj\Debug\AbstactFactory3.csprojResolveAssemblyReference.cache
+E:\Coding\大话设计模式学习Demo\AbstactFactory3\obj\Debug\AbstactFactory3.dll
+E:\Coding\大话设计模式学习Demo\AbstactFactory3\obj\Debug\AbstactFactory3.pdb

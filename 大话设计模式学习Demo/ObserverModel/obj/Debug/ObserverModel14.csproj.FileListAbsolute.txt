@@ -1,0 +1,4 @@
+E:\Coding\大话设计模式学习Demo\ObserverModel\bin\Debug\ObserverModel.dll
+E:\Coding\大话设计模式学习Demo\ObserverModel\bin\Debug\ObserverModel.pdb
+E:\Coding\大话设计模式学习Demo\ObserverModel\obj\Debug\ObserverModel.dll
+E:\Coding\大话设计模式学习Demo\ObserverModel\obj\Debug\ObserverModel.pdb

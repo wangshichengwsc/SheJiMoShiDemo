@@ -1,0 +1,6 @@
+E:\Coding\大话设计模式学习Demo\Chapter15_1\bin\Debug\Chapter15_1.dll
+E:\Coding\大话设计模式学习Demo\Chapter15_1\bin\Debug\Chapter15_1.pdb
+E:\Coding\大话设计模式学习Demo\Chapter15_1\obj\Debug\Chapter15_1.csproj.CoreCompileInputs.cache
+E:\Coding\大话设计模式学习Demo\Chapter15_1\obj\Debug\Chapter15_1.dll
+E:\Coding\大话设计模式学习Demo\Chapter15_1\obj\Debug\Chapter15_1.pdb
+E:\Coding\大话设计模式学习Demo\Chapter15_1\obj\Debug\Chapter15_1.csprojAssemblyReference.cache

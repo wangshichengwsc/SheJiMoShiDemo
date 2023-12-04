@@ -1,0 +1,9 @@
+E:\Coding\大话设计模式学习Demo\第二章\bin\Debug\第二章.exe.config
+E:\Coding\大话设计模式学习Demo\第二章\bin\Debug\第二章.exe
+E:\Coding\大话设计模式学习Demo\第二章\bin\Debug\第二章.pdb
+E:\Coding\大话设计模式学习Demo\第二章\obj\Debug\第二章.Form1.resources
+E:\Coding\大话设计模式学习Demo\第二章\obj\Debug\第二章.Properties.Resources.resources
+E:\Coding\大话设计模式学习Demo\第二章\obj\Debug\第二章.csproj.GenerateResource.Cache
+E:\Coding\大话设计模式学习Demo\第二章\obj\Debug\第二章.exe
+E:\Coding\大话设计模式学习Demo\第二章\obj\Debug\第二章.pdb
+E:\Coding\大话设计模式学习Demo\第二章\obj\Debug\第二章.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+E:\Coding\大话设计模式学习Demo\BuilderModel13\bin\Debug\BuilderModel13.dll
+E:\Coding\大话设计模式学习Demo\BuilderModel13\bin\Debug\BuilderModel13.pdb
+E:\Coding\大话设计模式学习Demo\BuilderModel13\obj\Debug\BuilderModel13.dll
+E:\Coding\大话设计模式学习Demo\BuilderModel13\obj\Debug\BuilderModel13.pdb

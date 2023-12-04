@@ -1,0 +1,4 @@
+E:\Coding\大话设计模式学习Demo\AbstractFactory\bin\Debug\AbstractFactory.dll
+E:\Coding\大话设计模式学习Demo\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\Coding\大话设计模式学习Demo\AbstractFactory\obj\Debug\AbstractFactory.dll
+E:\Coding\大话设计模式学习Demo\AbstractFactory\obj\Debug\AbstractFactory.pdb
